@@ -18,23 +18,6 @@ National School for Statistics ans Information Analysis in France (ENSAI),
 <em>Center of Research in Economics and Statistics (CREST)</em> <br /></p>
   </li>
 
-    <li>
-    <p><strong>2019:</strong> <strong>French "qualifications aux fonctions de maître de conférences"</strong> <br />
-Section 27 - Information Technology and Computer Science
-  <br />
-</p>
-  </li>
-
-
-  <li>
-    <p><strong>2017:</strong> <strong>French "qualifications aux fonctions de maître de conférences"</strong> <br />
-Section 61 - Computer sciences, Automatic Control and Signal Processing
-  <br />
-</p>
-  </li>
-
-
-
 
 <li>
     <p><strong>2016 - 2017 :</strong> <strong>  Assistant lecturer (ATER)
@@ -57,6 +40,22 @@ Cristal, Sigma Research Group <br />
 <h3 id="academic-background">Academic background</h3>
 
 <ul>
+
+    <li>
+    <p><strong>2019:</strong> <strong>French "qualifications aux fonctions de maître de conférences"</strong> <br />
+Section 27 - Information Technology and Computer Science
+  <br />
+</p>
+  </li>
+
+
+  <li>
+    <p><strong>2017:</strong> <strong>French "qualifications aux fonctions de maître de conférences"</strong> <br />
+Section 61 - Computer sciences, Automatic Control and Signal Processing
+  <br />
+</p>
+  </li>
+  
   <li>
     <p><strong>2013 - 2016 :</strong> <strong>Ph.D. in “Statistical Signal and Image Processing”</strong> <br />
 <em>Ecole Centrale de Lille (France)</em> <br /></p>
