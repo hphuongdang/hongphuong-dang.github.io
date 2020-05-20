@@ -2,16 +2,16 @@
 layout: default
 ---
 
-<div class="header-bar">
-  <h1>{{ site.blog_name }}</h1>
-  <h2>{{ site.blog_description }}</h2>
+<div class="post-header">
+	<h1 class="post-title"><strong>{{ site.blog_name }}</strong></h1>
+    <h5 class="post-description">{{ site.blog_description }}</h5>
 </div>
 
 
 <ul class="post-list">
   {% for post in paginator.posts %}
     <li>
-      <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+      <h2><a>{{ post.title }}</a></h2>
       <p class="post-meta">{{ post.date | date: '%B %-d, %Y — %H:%M' }}</p>
       <p>{{ post.description }}</p>
     </li>

@@ -1,23 +1,47 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Hong-Phuong</strong> DANG
+description: <a href="">Assistant Professor (Enseignant-chercheur in French) </a>. Ensai-CREST - UMR 9194.
+adresse: 51 Rue Blaise Pascal, BP 37203, 35172 Bruz Cedex, France 
+
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: myphoto.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office Room : C266 </p>
+    <p>Tel : +33 2 99 05 32 59 </p>
+    <p>e-mail : A.B@ensai.fr </p>
+    <p>A=hong-phuong</p>
+    <p>B=dang</p>
 
 news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently an assistant professor at the National School of Statistics and Information Analysis ([ENSAI](http://ensai.fr){:target="\_blank"} ), member of the Center for Research in Economics and Statistics ([CREST](http://crest.science){:target="\_blank"}).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I was a PhD student from october, 2013 to november, 2016 at CRIStAL in Lille, France, under the supervision of Pierre Chainais and I was part of the SigMA group at CRIStAL.
+My Ph.D. thesis is entitled " Non-parametric Bayesian approaches and dictionary learning for inverse problems in image processing".
+
+
+<strong>Research interests</strong>
+<ul>
+  <li>Statistical signal and image processing.</li>
+  <li>Inverse problems in signal and image processing.</li>
+  <li>Matrix factorization.</li>
+  <li>Dictionary learning, sparse representations.</li>
+  <li>Classification, clustering.</li>
+</ul>
+
+<strong>Tools and methods</strong> (favorite)
+<ul>
+  <li>Bayesian inference, hierarchical models, latent variable models.</li>
+  <li>Bayesian nonparametric.</li>
+  <li>Markov chain Monte Carlo (MCMC) algorithm.</li>
+  <li>Expectation-Maximization algorithm, variational approximation.</li>
+</ul>
+ I am particularly interested in working on medical imaging problems.<br />
+ I am also interested in interaction between Bayesian methods and optimization.

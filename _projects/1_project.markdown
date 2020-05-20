@@ -1,55 +1,82 @@
 ---
 layout: page
 title: Project 1
-description: a project with a background image
+description: IBP-DL
 img: /assets/img/12.jpg
 ---
+<strong>Non-parametric Bayesian approaches and dictionary learning for inverse problems in image processing</strong>
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+Dictionary learning for sparse representation has been widely advocated for solving inverse problems. Optimization methods and parametric approaches towards dictionary learning have been particularly explored. These methods meet some limitations, particularly related to the choice of parameters. In general, the dictionary size is fixed in advance, and sparsity or noise level may also be needed.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+By defining prior distributions on functional spaces, nonparametrics models avoid the often painful selection of model complexity. In a parametric model, we have a finite number of parameters, and in nonparametric models, the number of parameters is (potentially) infinite. This indicates that the dimension of the unknown parameters is also a random variable. Nonparametric does not mean that they have no parameters.
 
-    ---
-    layout: page
-    title: Project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Nonparametric models exhibit good adaptivity properties which make possible to overcome a model selection step. Thus, the complexity of the model increases dynamically with the richness of the data. By using nonparametric Bayesian approaches in dictionary learning, we can consider that the size of the dictionary is potentially infinite but a prior is introduced to favor the sparsity of the representation. The dictionary and coefficients are then leanrned jointly.
 
 
-<div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/1.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/2.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    This image can also have a caption. It's like magic.
-</div>
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
+<div id="exemple">
+
+                <video width="320" height="320" id="ve1">
+                    <source src="{{ site.baseurl }}/assets/video/mandrillDico80.mp4">
+                </video>
+
+                <video width="320" id="ve2">
+
+                    Image reconstruite
+                    <source src="{{ site.baseurl }}/assets/video/mandrillOut80.mp4">
+
+                    Image reconstruite
+                </video>
+
+                <br>
+                <button onclick="document.getElementById('ve1').play();document.getElementById('ve2').play();">
+                Play</button>
+
+                <button onclick="document.getElementById('ve1').pause();document.getElementById('ve2').pause();">
+                Pause</button>
+
+                <br>
+                <video width="320" height="320" id="ve3">
+                    <source src="{{ site.baseurl }}/assets/video/fgDico50.mp4">
+
+                    Dictionnaire
+                </video>
+
+                <video width="320" id="ve4">
+                    <source src="{{ site.baseurl }}/assets/video/fgOut50.mp4">
+
+                    Image reconstruite
+                </video>
+
+                <br>
+                <button onclick="document.getElementById('ve3').play();document.getElementById('ve4').play();">
+                Play</button>
+
+                <button onclick="document.getElementById('ve3').pause();document.getElementById('ve4').pause();">
+                Pause</button>
+
+                <br>
+                <video width="320" height="320" id="ve5">
+                    <source src="{{ site.baseurl }}/assets/video/manDico20.mp4">
+
+                    Dictionnaire
+                </video>
+
+                <video width="320" id="ve6">
+                    <source src="{{ site.baseurl }}/assets/video/manOut20.mp4">
+
+                    Image reconstruite
+                </video>
+
+                <br>
+                <button onclick="document.getElementById('ve5').play();document.getElementById('ve6').play();">
+                Play</button>
+
+                <button onclick="document.getElementById('ve5').pause();document.getElementById('ve6').pause();">
+                Pause</button>
+
+            </div>
 
 
-<div class="img_row">
-    <img class="col two left" src="{{ site.baseurl }}/assets/img/6.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
 
 
-<br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above:
-
-<div class="img_row">
-    <img class="col two left" src="/img/6.jpg"/>
-    <img class="col one left" src="/img/11.jpg"/>
-</div>
