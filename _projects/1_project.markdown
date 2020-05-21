@@ -14,7 +14,7 @@ img: /assets/img/12.jpg
     </p>
     <p>
     Toolbox IBP-DL in C is available 
-    <a href={{ site.baseurl }}/assets/code/IBP-DL-CodeC.zip">here</a>.
+    <a href="{{ site.baseurl }}/assets/code/IBP-DL-CodeC.zip">here</a>.
     </p>
 </div>
 
