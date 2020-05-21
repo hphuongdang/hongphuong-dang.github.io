@@ -7,7 +7,7 @@ img: /assets/img/12.jpg
 <strong>Non-parametric Bayesian approaches and dictionary learning for inverse problems in image processing</strong>
 
 <div class="Toolbox">
-    <h2 id="version-publique-">Toolbox:</h2>
+    <h4 id="version-publique-">Toolbox:</h4>
     <p>
     Toolbox IBP-DL in Matlab is available 
     <a href="{{ site.baseurl }}/assets/code/IBP-DL-Matlab.zip">here</a>.
