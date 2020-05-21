@@ -6,6 +6,19 @@ img: /assets/img/12.jpg
 ---
 <strong>Non-parametric Bayesian approaches and dictionary learning for inverse problems in image processing</strong>
 
+                <h2 id="version-publique-">Toolbox:</h2>
+                <p>
+                    Toolbox IBP-DL in Matlab is available 
+                    <a href="{{ site.baseurl }}/assets/code/IBP-DL-Matlab.zip">here</a>
+                    .
+                </p>
+                <p>
+                    Toolbox IBP-DL in C is available 
+                    <a href={{ site.baseurl }}/assets/code/IBP-DL-CodeC.zip">here</a>
+                    .
+                </p>
+
+
 Dictionary learning for sparse representation has been widely advocated for solving inverse problems. Optimization methods and parametric approaches towards dictionary learning have been particularly explored. These methods meet some limitations, particularly related to the choice of parameters. In general, the dictionary size is fixed in advance, and sparsity or noise level may also be needed.
 
 By defining prior distributions on functional spaces, nonparametrics models avoid the often painful selection of model complexity. In a parametric model, we have a finite number of parameters, and in nonparametric models, the number of parameters is (potentially) infinite. This indicates that the dimension of the unknown parameters is also a random variable. Nonparametric does not mean that they have no parameters.

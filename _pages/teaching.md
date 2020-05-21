@@ -45,7 +45,7 @@ description: Organized by year.
 <em>Signal Processing</em> (G1 EC Lille)<br />
 </p>
   </li>
-
+</ul>
 
 <h3 id="supervision">Supervision</h3>
 
@@ -69,7 +69,7 @@ description: Organized by year.
 
 
 
-</ul>
+
 
 
 
