@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 1
-description: IBP-DL
+title: IBP-DL
+description: Non-parametric dictionary learning for inverse problems
 img: /assets/img/12.jpg
 ---
 <strong>Non-parametric Bayesian approaches and dictionary learning for inverse problems in image processing</strong>
