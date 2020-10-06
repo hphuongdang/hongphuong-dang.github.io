@@ -34,7 +34,11 @@ Illumination artifacts arise in a variety of digital images such as digital phot
 <br/>
     
 
-<iframe src="{ site.baseurl }}/assets/project2/results.pdf" width="800" height="600" align="middle"></iframe>
+<iframe src="https://hphuongdang.github.io/assets/project2/results.pdf" width="800" height="600" align="middle"></iframe>
+
+<iframe src="assets/project2/results.pdf" width="800" height="600" align="middle"></iframe>
+
+<iframe source src="{{ site.baseurl }}/assets/project2/results.pdf" width="800" height="600" align="middle"></iframe>
 
 
 <br/>
