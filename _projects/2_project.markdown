@@ -33,7 +33,7 @@ Illumination artifacts arise in a variety of digital images such as digital phot
   <tr> <td align="right"> 10 </td> <td> starwars </td> <td align="right"> 0.81 </td> <td align="right"> 0.15 </td> <td align="right"> 0.20 </td> <td align="right"> 0.30 </td> <td align="right"> 0.36 </td> <td align="right"> 0.88 </td> <td align="right"> 1.00 </td> <td align="right"> 0.61 </td> </tr>
   <tr> <td align="right"> 11 </td> <td> sunset </td> <td align="right"> 0.86 </td> <td align="right"> 0.32 </td> <td align="right"> 0.34 </td> <td align="right"> 0.48 </td> <td align="right"> 0.61 </td> <td align="right"> 0.98 </td> <td align="right"> 0.99 </td> <td align="right"> 0.60 </td> </tr>
   <tr> <td align="right"> 12 </td> <td> test2 </td> <td align="right"> 0.91 </td> <td align="right"> 0.16 </td> <td align="right"> 0.16 </td> <td align="right"> 0.27 </td> <td align="right"> 0.33 </td> <td align="right"> 0.97 </td> <td align="right"> 1.00 </td> <td align="right"> 0.65 </td> </tr>
-   <a name=SSIM indexes for images of Figure 3></a>
+   <a name="SSIM indexes"></a>
 </table>
 
 
@@ -51,7 +51,7 @@ Illumination artifacts arise in a variety of digital images such as digital phot
   <tr> <td align="right"> 10 </td> <td> starwars </td> <td align="right"> 0.02 </td> <td align="right"> 0.28 </td> <td align="right"> 0.27 </td> <td align="right"> 0.24 </td> <td align="right"> 0.16 </td> <td align="right"> 0.01 </td> <td align="right"> 0.00 </td> <td align="right"> 0.10 </td> </tr>
   <tr> <td align="right"> 11 </td> <td> sunset </td> <td align="right"> 0.06 </td> <td align="right"> 0.32 </td> <td align="right"> 0.30 </td> <td align="right"> 0.21 </td> <td align="right"> 0.16 </td> <td align="right"> 0.01 </td> <td align="right"> 0.00 </td> <td align="right"> 0.10 </td> </tr>
   <tr> <td align="right"> 12 </td> <td> test2 </td> <td align="right"> 0.04 </td> <td align="right"> 0.33 </td> <td align="right"> 0.30 </td> <td align="right"> 0.22 </td> <td align="right"> 0.21 </td> <td align="right"> 0.01 </td> <td align="right"> 0.00 </td> <td align="right"> 0.11 </td> </tr>
-   <a name=GMSD indexes for images of Figure 3></a>
+   <a name="GMSD indexes"></a>
 </table>
 
 
@@ -69,7 +69,7 @@ Illumination artifacts arise in a variety of digital images such as digital phot
   <tr> <td align="right"> 10 </td> <td> starwars </td> <td align="right"> 4.85 </td> <td align="right"> 5.30 </td> <td align="right"> 4.62 </td> <td align="right"> 4.18 </td> <td align="right"> 5.11 </td> <td align="right"> 3.76 </td> <td align="right"> 4.45 </td> <td align="right"> 4.70 </td> </tr>
   <tr> <td align="right"> 11 </td> <td> sunset </td> <td align="right"> 2.46 </td> <td align="right"> 3.27 </td> <td align="right"> 3.10 </td> <td align="right"> 3.78 </td> <td align="right"> 2.52 </td> <td align="right"> 2.21 </td> <td align="right"> 2.36 </td> <td align="right"> 2.96 </td> </tr>
   <tr> <td align="right"> 12 </td> <td> test2 </td> <td align="right"> 2.95 </td> <td align="right"> 3.65 </td> <td align="right"> 3.12 </td> <td align="right"> 3.52 </td> <td align="right"> 3.17 </td> <td align="right"> 2.08 </td> <td align="right"> 2.77 </td> <td align="right"> 3.43 </td> </tr>
-   <a name=NIQE indexes for images of Figure 3></a>
+   <a name="NIQE indexes"></a>
 </table>
 
 
