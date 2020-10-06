@@ -19,7 +19,7 @@ Illumination artifacts arise in a variety of digital images such as digital phot
 
 
 
-<table border=1>
+<table>
 <tr> <th>  </th> <th> name </th> <th> dgkv </th> <th> star </th> <th> jiep </th> <th> lime </th> <th> msr </th> <th> n4 </th> <th> pie </th> <th> srie </th>  </tr>
   <tr> <td align="right"> 1 </td> <td> camels </td> <td align="right"> 0.79 </td> <td align="right"> 0.73 </td> <td align="right"> 0.74 </td> <td align="right"> 0.84 </td> <td align="right"> 0.88 </td> <td align="right"> 0.78 </td> <td align="right"> 0.99 </td> <td align="right"> 0.61 </td> </tr>
   <tr> <td align="right"> 2 </td> <td> dike </td> <td align="right"> 0.84 </td> <td align="right"> 0.37 </td> <td align="right"> 0.39 </td> <td align="right"> 0.50 </td> <td align="right"> 0.59 </td> <td align="right"> 0.90 </td> <td align="right"> 1.00 </td> <td align="right"> 0.62 </td> </tr>
@@ -37,7 +37,7 @@ Illumination artifacts arise in a variety of digital images such as digital phot
 </table>
 
 
-<table border=1>
+<table>
 <tr> <th>  </th> <th> name </th> <th> dgkv </th> <th> star </th> <th> jiep </th> <th> lime </th> <th> msr </th> <th> n4 </th> <th> pie </th> <th> srie </th>  </tr>
   <tr> <td align="right"> 1 </td> <td> camels </td> <td align="right"> 0.12 </td> <td align="right"> 0.15 </td> <td align="right"> 0.12 </td> <td align="right"> 0.08 </td> <td align="right"> 0.07 </td> <td align="right"> 0.16 </td> <td align="right"> 0.00 </td> <td align="right"> 0.09 </td> </tr>
   <tr> <td align="right"> 2 </td> <td> dike </td> <td align="right"> 0.06 </td> <td align="right"> 0.29 </td> <td align="right"> 0.31 </td> <td align="right"> 0.22 </td> <td align="right"> 0.14 </td> <td align="right"> 0.03 </td> <td align="right"> 0.00 </td> <td align="right"> 0.09 </td> </tr>
@@ -55,7 +55,7 @@ Illumination artifacts arise in a variety of digital images such as digital phot
 </table>
 
 
-<table border=1>
+<table>
 <tr> <th>  </th> <th> name </th> <th> ori </th> <th> srie </th> <th> dgkv </th> <th> jiep </th> <th> lime </th> <th> msr </th> <th> n4 </th> <th> pie </th>  </tr>
   <tr> <td align="right"> 1 </td> <td> camels </td> <td align="right"> 2.57 </td> <td align="right"> 3.71 </td> <td align="right"> 3.11 </td> <td align="right"> 4.41 </td> <td align="right"> 2.49 </td> <td align="right"> 2.91 </td> <td align="right"> 2.77 </td> <td align="right"> 3.79 </td> </tr>
   <tr> <td align="right"> 2 </td> <td> dike </td> <td align="right"> 2.43 </td> <td align="right"> 2.72 </td> <td align="right"> 2.61 </td> <td align="right"> 3.02 </td> <td align="right"> 2.43 </td> <td align="right"> 2.12 </td> <td align="right"> 2.18 </td> <td align="right"> 2.52 </td> </tr>
