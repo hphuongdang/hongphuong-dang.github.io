@@ -29,7 +29,7 @@ Illumination artifacts arise in a variety of digital images such as digital phot
 <br/>
     
 
-<embed src="{{ site.baseurl }}/assets/project2/results.pdf" width=800 height=500 type='application/pdf'/>
+<embed src={{ site.baseurl }}/assets/project2/results.pdf width=800 height=500 type='application/pdf'/>
 
 
 
