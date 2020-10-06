@@ -26,8 +26,14 @@ Illumination artifacts arise in a variety of digital images such as digital phot
     <a href="{{ site.baseurl }}/assets/project2/ResultsWeb.zip">here</a>.
     </p>
 
+<br/>
+    
+
+<embed src="{{ site.baseurl }}/assets/project2/results.pdf" width=800 height=500 type='application/pdf'/>
 
 
+
+<br/>
 <table>
 <caption>SSIM indexes</caption>
 <tr> <th>  </th> <th> name </th> <th> ours </th> <th> star </th> <th> jiep </th> <th> lime </th> <th> msr </th> <th> n4 </th> <th> pie </th> <th> srie </th>  </tr>
