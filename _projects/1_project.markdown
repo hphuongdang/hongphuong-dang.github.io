@@ -17,16 +17,22 @@ img: /assets/img/12.jpg
     <a href="{{ site.baseurl }}/assets/code/IBP-DL-CodeC.zip">here</a>.
     </p>
 </div>
+    
 
+
+<div class="Description">
+<h4 id="p1-description">Description:</h4>
 Dictionary learning for sparse representation has been widely advocated for solving inverse problems. Optimization methods and parametric approaches towards dictionary learning have been particularly explored. These methods meet some limitations, particularly related to the choice of parameters. In general, the dictionary size is fixed in advance, and sparsity or noise level may also be needed.
 
 By defining prior distributions on functional spaces, nonparametrics models avoid the often painful selection of model complexity. In a parametric model, we have a finite number of parameters, and in nonparametric models, the number of parameters is (potentially) infinite. This indicates that the dimension of the unknown parameters is also a random variable. Nonparametric does not mean that they have no parameters.
 
 Nonparametric models exhibit good adaptivity properties which make possible to overcome a model selection step. Thus, the complexity of the model increases dynamically with the richness of the data. By using nonparametric Bayesian approaches in dictionary learning, we can consider that the size of the dictionary is potentially infinite but a prior is introduced to favor the sparsity of the representation. The dictionary and coefficients are then leanrned jointly.
-
+</div>
+     
 
 
 <div id="exemple">
+<h4 id="p1-demonstration">Demonstration:</h4>
 
                 <video width="320" height="320" id="ve1">
                     <source src="{{ site.baseurl }}/assets/video/mandrillDico80.mp4">

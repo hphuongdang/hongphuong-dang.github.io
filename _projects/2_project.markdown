@@ -10,12 +10,21 @@ img: /assets/img/2.jpg
 <h4 id="version-publique-">Toolbox:</h4>
  Coming soon
 </div>
+    
 
+
+<div class="Description">
+<h4 id="p2-description-">Description:</h4>
 Illumination artifacts arise in a variety of digital images such as digital photography, digital microscopy or Magnetic Resonance images. Illumination artifacts consist of “smooth” variations in color/gray level intensity which are visible in the acquired image but are not present in the original scene. We propose a new procedure for image illumination correction with data-driven parameter choice.
+</div>  
+
 
 <div class="Results">
 <h4 id="p2-results">Results:</h4>
-
+    <p>
+    Results of a sample of 50 images are available
+    <a href="{{ site.baseurl }}/assets/project2/ResultsWeb.zip">here</a>.
+    </p>
 
 
 
