@@ -10,11 +10,11 @@ img: /assets/img/12.jpg
     <h4 id="version-publique-">Toolbox:</h4>
     <p>
     Toolbox IBP-DL in Matlab is available 
-    <a href="{{ site.baseurl }}/assets/code/IBP-DL-Matlab.zip">here</a>.
+    <a href="{{ site.baseurl }}/assets/project1/code/IBP-DL-Matlab.zip">here</a>.
     </p>
     <p>
     Toolbox IBP-DL in C is available 
-    <a href="{{ site.baseurl }}/assets/code/IBP-DL-CodeC.zip">here</a>.
+    <a href="{{ site.baseurl }}/assets/project1/code/IBP-DL-CodeC.zip">here</a>.
     </p>
 </div>
     
@@ -35,13 +35,13 @@ Nonparametric models exhibit good adaptivity properties which make possible to o
 <h4 id="p1-demonstration">Demonstration:</h4>
 
                 <video width="320" height="320" id="ve1">
-                    <source src="{{ site.baseurl }}/assets/video/mandrillDico80.mp4">
+                    <source src="{{ site.baseurl }}/assets/project1/video/mandrillDico80.mp4">
                 </video>
 
                 <video width="320" id="ve2">
 
                     Image reconstruite
-                    <source src="{{ site.baseurl }}/assets/video/mandrillOut80.mp4">
+                    <source src="{{ site.baseurl }}/assets/project1/video/mandrillOut80.mp4">
 
                     Image reconstruite
                 </video>
@@ -55,13 +55,13 @@ Nonparametric models exhibit good adaptivity properties which make possible to o
 
                 <br>
                 <video width="320" height="320" id="ve3">
-                    <source src="{{ site.baseurl }}/assets/video/fgDico50.mp4">
+                    <source src="{{ site.baseurl }}/assets/project1/video/fgDico50.mp4">
 
                     Dictionnaire
                 </video>
 
                 <video width="320" id="ve4">
-                    <source src="{{ site.baseurl }}/assets/video/fgOut50.mp4">
+                    <source src="{{ site.baseurl }}/assets/project1/video/fgOut50.mp4">
 
                     Image reconstruite
                 </video>
@@ -75,13 +75,13 @@ Nonparametric models exhibit good adaptivity properties which make possible to o
 
                 <br>
                 <video width="320" height="320" id="ve5">
-                    <source src="{{ site.baseurl }}/assets/video/manDico20.mp4">
+                    <source src="{{ site.baseurl }}/assets/project1/video/manDico20.mp4">
 
                     Dictionnaire
                 </video>
 
                 <video width="320" id="ve6">
-                    <source src="{{ site.baseurl }}/assets/video/manOut20.mp4">
+                    <source src="{{ site.baseurl }}/assets/project1/video/manOut20.mp4">
 
                     Image reconstruite
                 </video>
