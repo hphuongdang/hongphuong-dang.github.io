@@ -13,7 +13,7 @@ description: Curriculum Vitae.
 <ul>
   <li>
     <p><strong>2017 - now :</strong> <strong>Assistant Professor</strong> <br />
-National School for Statistics ans Information Analysis in France (ENSAI), 
+National School for Statistics and Information Analysis in France (ENSAI), 
   <br />
 <em>Center of Research in Economics and Statistics (CREST)</em> <br /></p>
   </li>

@@ -19,7 +19,7 @@ description: Organized by year.
 
 <ul>
   <li>
-    <p><strong>2017 - 2020 :</strong> Assistant Professor (<em>ENSAI</em>)<br />
+    <p><strong>2017 - now :</strong> Assistant Professor (<em>ENSAI</em>)<br />
 <em>Algorithms Design and Python Programming</em> (1A Ensai) <br />
 <em>Optimization and numerical methods</em> (1A Ensai)<br />
 <em>Tools and Software for Statisticians</em> (1A Ensai) <br />
