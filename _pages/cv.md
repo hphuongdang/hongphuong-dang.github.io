@@ -5,8 +5,8 @@ title: Vita
 description: Curriculum Vitae.
 ---
  
- A detailed version is available in [english](http://localhost:4000/al-folio/assets/pdf/cvPhuongDANG_en.pdf) or in 
-[french](http://localhost:4000/al-folio/assets/pdf/cvPhuongDANG_fr.pdf).
+ A detailed version is available in <a href="{{ site.baseurl }}/assets/pdf/cvPhuongDANG_en.pdf">english</a>
+ or in <a href="{{ site.baseurl }}/assets/pdf/cvPhuongDANG_fr.pdf">french</a>.
 
 <h3 id="positions">Positions</h3>
 
