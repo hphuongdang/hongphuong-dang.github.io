@@ -16,7 +16,7 @@ profile:
     <p>A=hong-phuong</p>
     <p>B=dang</p>
 
-news: true
+news: false
 social: true
 ---
 
