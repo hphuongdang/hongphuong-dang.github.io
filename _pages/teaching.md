@@ -50,6 +50,13 @@ description: Organized by year.
 <h3 id="supervision">Supervision</h3>
 
 <ul>
+
+  <li>
+  <p><strong>2020-2023</strong> Ph.D. student<em> Univ. Rennes 1 (25% - co-supervised with Valérie Monbet, Cédric Herzet, Joyce Madison Giacofci)</em> <br />
+  <em>Diagnosis of liver diseases with sparses representations in continuous dictionaries</em>
+   </p>
+  </li>
+
   <li>
   <p><strong>06-08/2019</strong> Master student (M1)<em> ENSAI (50% - co-supervised with Myriam Vimond)</em> <br />
   <em>Non-parametric models based on stochastic processes and the expectation-maximization algorithm to segment images</em>
